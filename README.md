@@ -2,6 +2,8 @@
 
 ###
 
+<body style="background-color:powderblue;">
+
 <div align="center">
   <img height="200" src="https://media.tenor.com/95sRCKYBwOIAAAAM/alien-green-alien.gif"  />
 </div>
