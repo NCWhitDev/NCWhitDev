@@ -25,9 +25,9 @@
 ###
 
 <div align="left">
-  <img src="https://basitdurrani-portfolio.netlify.app/images/xxodzo30yoab1.gif" height="140" alt="csharp logo" alt="W3Schools.com"/>
+  <img src="https://basitdurrani-portfolio.netlify.app/images/xxodzo30yoab1.gif" height="140" alt="cplusplus logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://i.redd.it/vzkhe4s8dlab1.gif" height="140" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
