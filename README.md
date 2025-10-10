@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://basitdurrani-portfolio.netlify.app/images/xxodzo30yoab1.gif" height="40" alt="csharp logo" alt="W3Schools.com"/>
+  <img src="https://basitdurrani-portfolio.netlify.app/images/xxodzo30yoab1.gif" height="140" alt="csharp logo" alt="W3Schools.com"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
