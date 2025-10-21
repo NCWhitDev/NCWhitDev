@@ -1,13 +1,5 @@
 <h1 align="center">Welcome to my Github !</h1>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/95sRCKYBwOIAAAAM/alien-green-alien.gif"  />
-</div>
-
-###
-
 <h2 align="center">About me</h2>
 
 ###
