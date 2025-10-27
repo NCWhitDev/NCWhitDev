@@ -4,7 +4,9 @@
 
 ###
 
-<p align="left">My name is Connor! <br><br>I am a inspired graduate from Appalachian State with a degree in Computer Science and Data Science. <br><br>I've worked on many projects in my short journey so far, ranging from passion projects, open-source, to Game Jams! I always look forward to learning new skills and facing my next challenge. <br><br>"Always keep learning, Don't ever quit."</p>
+<p align="left">
+  My name is Connor! <br><br>I am a inspired graduate from Appalachian State with a degree in Computer Science and Data Science. <br><br>I've worked on many projects in my journey so far, ranging from passion projects, open-source, and to even Game Jams! I always look forward to learning new skills and facing my next challenges. <br><br>"Always keep learning, Don't ever quit."
+</p>
 
 ###
 
