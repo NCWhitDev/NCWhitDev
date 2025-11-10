@@ -5,7 +5,11 @@
 ###
 
 <p align="left">
-  My name is Connor, I am a recent graduate from Appalachian State with a degree in Computer Science and specialized in Data Science. <br><br>I've worked on many projects in my journey so far, ranging from passion projects, open-source, to even Game Jams! I always look forward to learning new skills and facing my next challenges. 
+  My name is Connor, and I’m a recent graduate from Appalachian State University, where I earned my Bachelor’s degree in Computer Science with a specialization in Data Science. Throughout my academic journey, I’ve developed a strong foundation in programming, data analysis, and problem-solving, with a passion for turning complex data into meaningful insights and innovative solutions.
+
+Over the years, I’ve worked on a variety of projects — from personal passion projects and open-source contributions to Game Jam collaborations — each experience allowing me to sharpen my technical skills, explore new technologies, and grow as both a developer and a creative thinker. I thrive in collaborative environments where curiosity and innovation drive progress, and I’m always eager to take on new challenges that push me to learn and improve.
+
+My goal is to continue developing as a software engineer and data scientist, applying my skills to real-world problems while expanding my expertise in areas like machine learning, data visualization, and AI-driven development.
   
 <br><br>"Always keep learning, Don't ever quit."
 </p>
