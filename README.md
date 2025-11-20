@@ -15,6 +15,7 @@ My goal is to continue developing as a software engineer and data scientist, app
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCWhitDev)](https://github.com/NCWhitDev/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCWhitDev&show_icons=true&theme=radical)
 
 ###
 
