@@ -15,13 +15,13 @@ My goal is to continue developing as a software engineer and data scientist, app
 </p>
 
 <a href="https://github.com/NCWhitDev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&layout=donut"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=donut"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWhitDev&theme=tokyonight&layout=donut&langs_count=10&card_width=320" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWhitDev&theme=tokyonight&layout=donut&langs_count=10&card_width=320&hide_border=true" />
 </a>
 
-![NCWhitDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NCWhitDev&theme=tokyonight&hide_border=false)
+![NCWhitDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NCWhitDev&theme=tokyonight&hide_border=true)
 
 ###
 
