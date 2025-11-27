@@ -14,9 +14,9 @@ My goal is to continue developing as a software engineer and data scientist, app
 <br><br>"Always keep learning, Don't ever quit."
 </p>
 
-![NCWhitDev's Stats](https://github-readme-stats.vercel.app/api?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![NCWhitDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NCWhitDev&theme=tokyonight&hide_border=false)
-![NCWhitDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=true&layout=pie)
+![NCWhitDev's Stats](https://github-readme-stats.vercel.app/api?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) <br>
+![NCWhitDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NCWhitDev&theme=tokyonight&hide_border=false) <br>
+![NCWhitDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=true&layout=pie) <br>
 ###
 
 <p align="left"></p>
