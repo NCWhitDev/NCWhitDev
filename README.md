@@ -11,7 +11,7 @@ Over the years, I’ve worked on a variety of projects — from personal passion
 
 My goal is to continue developing as a software engineer and data scientist, applying my skills to real-world problems while expanding my expertise in areas like machine learning, data visualization, and AI-driven development.
   
-<br><br>"Always keep learning, Don't ever quit."
+<br>"Always keep learning, Don't ever quit."
 </p>
 
 <a href="https://github.com/NCWhitDev/github-readme-stats">
