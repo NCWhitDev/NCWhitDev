@@ -21,7 +21,7 @@ My goal is to continue developing as a software engineer and data scientist, app
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWhitDev&theme=tokyonight&layout=donut&langs_count=10&card_width=320&hide_border=true" />
 </a>
 
-![NCWhitDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NCWhitDev&theme=tokyonight&hide_border=true)
+![NCWhitDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NCWhitDev&theme=tokyonight&hide_border=false)
 
 ###
 
