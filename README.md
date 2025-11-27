@@ -23,7 +23,7 @@ My goal is to continue developing as a software engineer and data scientist, app
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&layout=donut"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWhitDev&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWhitDev&theme=tokyonight&layout=donut&langs_count=8&card_width=320" />
 </a>
 
 ###
