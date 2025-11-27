@@ -14,7 +14,7 @@ My goal is to continue developing as a software engineer and data scientist, app
 <br><br>"Always keep learning, Don't ever quit."
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCWhitDev&show_icons=true&theme=radical)
+![NCWhitDev's Stats](https://github-readme-stats.vercel.app/api?username=NCWhitDev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCWhitDev&layout=pie)](https://github.com/NCWhitDev/github-readme-stats)
 ###
 
