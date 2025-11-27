@@ -16,8 +16,7 @@ My goal is to continue developing as a software engineer and data scientist, app
 
 ![NCWhitDev's Stats](https://github-readme-stats.vercel.app/api?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![NCWhitDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NCWhitDev&theme=tokyonight&hide_border=false)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCWhitDev&layout=pie)](https://github.com/NCWhitDev/github-readme-stats)
+![NCWhitDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ###
 
 <p align="left"></p>
