@@ -20,10 +20,10 @@ My goal is to continue developing as a software engineer and data scientist, app
 ![NCWhitDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=false&layout=donut) <br>
 
 <a href="https://github.com/NCWhitDev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NCWhitDev" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWhitDev&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=NCWhitDev&layout=compact&langs_count=8&](https://github-readme-streak-stats.herokuapp.com/?user=NCWhitDev&theme=tokyonight&hide_border=false&card_width=320" />
 </a>
 
 ###
