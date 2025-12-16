@@ -19,8 +19,8 @@ My goal is to continue developing as a software engineer and data scientist, app
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWhitDev&theme=tokyonight&layout=donut&langs_count=6&card_width=320&card_height=200&hide_border=true" />
+  <br>
 </a>
-<br></br>
 ![NCWhitDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NCWhitDev&theme=tokyonight&hide_border=false)
 
 ###
