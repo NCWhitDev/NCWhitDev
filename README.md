@@ -9,7 +9,7 @@
 
 Over the years, I’ve worked on a variety of projects — from personal passion projects and open-source contributions to Game Jam collaborations — each experience allowing me to sharpen my technical skills, explore new technologies, and grow as both a developer and a creative thinker. I thrive in collaborative environments where curiosity and innovation drive progress, and I’m always eager to take on new challenges that push me to learn and improve.
 
-My goal is to continue developing as a software engineer and data scientist, applying my skills to real-world problems while expanding my expertise in areas like machine learning, data visualization, and AI-driven development.
+My goal is to continue learning as a developer, applying my skills to real-world problems while expanding my expertise in all aspects of the digital world.
   
 <br>"Always keep learning, Don't ever quit."
 </p>
