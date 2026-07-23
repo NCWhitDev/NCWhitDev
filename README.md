@@ -11,16 +11,16 @@ Over the years, I’ve worked on a variety of projects, from personal passion pr
 
 My goal is to continue learning as a developer, applying my skills to real-world problems while expanding my expertise in all aspects of the digital world.
   
-<br>"Never stop learning."
-</p>
+<!-- <br>"Never stop learning."
+</p> -->
 
-<a href="https://github.com/NCWhitDev/github-readme-stats">
+<!-- <a href="https://github.com/NCWhitDev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NCWhitDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&layout=donut"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWhitDev&theme=tokyonight&layout=donut&langs_count=10&card_width=320&hide_border=true" />
   <br>
-</a>
+</a> -->
 
 ###
 
