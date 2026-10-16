@@ -5,11 +5,13 @@
 ###
 
 <p align="left">
-  My name is Connor, a graduate from Appalachian State University, where I earned my Bachelor’s degree in Computer Science with a specialization in Data Science & Machine Learning. Throughout my academic journey, I’ve developed a strong foundation in programming, data analysis, and software architecture, with a passion for facing challenges to expand my knowledge and allow me to create innovative solutions for the future.
+  I’m Connor, a graduate of Appalachian State University with a bachelor's in Computer science and special certifications in Data Science & Machine Learning.
 
-Over the years, I’ve worked on a variety of projects, from personal passion projects and open-source contributions. Each experience allowing me to sharpen my technical skills, explore new technologies, and grow as both a developer and a creative thinker. I thrive in collaborative environments where curiosity and innovation drive progress, and I’m always eager to take on new challenges that push me to learn and improve.
+I thrive in collaborative environments where diverse perspectives and shared problem-solving lead to stronger outcomes. I approach every project as an opportunity to learn and grow. Driven by a genuine passion for problem-solving and creativity, I actively seek out challenging technical problems that push my skills further and deepen my understanding of the field. I bring a strong work ethic, adaptability, and a commitment to continuous improvement to every team I join, always striving to contribute meaningfully while expanding my own capabilities.
 
-My goal is to continue learning as a developer, applying my skills to real-world problems while expanding my expertise in all aspects of the digital world.
+I have many job interests, such as Game programming, Software engineering, Full-Stack web development, and embedded systems.
+
+Outside of coding, I have many hobbies, I am a writer, digital artist, video editor, and a game designer.
   
 <!-- <br>"Never stop learning."
 </p> -->
